@@ -1,0 +1,11 @@
+xebiaTest/Environnement.class
+xebiaTest/action/ActionGauche.class
+xebiaTest/model/TendeusesActions.class
+xebiaTest/enumeration/Direction.class
+xebiaTest/action/Action.class
+xebiaTest/action/ActionDroite.class
+xebiaTest/enumeration/Orientation.class
+xebiaTest/action/ActionAvancer.class
+xebiaTest/tools/EnvironnementGenerator.class
+xebiaTest/model/Tendeuse.class
+xebiaTest/model/Grille.class

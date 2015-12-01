@@ -1,0 +1,11 @@
+/home/adminuser/workspace/tondeuse_project/src/main/java/xebiaTest/action/ActionDroite.java
+/home/adminuser/workspace/tondeuse_project/src/main/java/xebiaTest/action/ActionAvancer.java
+/home/adminuser/workspace/tondeuse_project/src/main/java/xebiaTest/action/ActionGauche.java
+/home/adminuser/workspace/tondeuse_project/src/main/java/xebiaTest/tools/EnvironnementGenerator.java
+/home/adminuser/workspace/tondeuse_project/src/main/java/xebiaTest/model/Grille.java
+/home/adminuser/workspace/tondeuse_project/src/main/java/xebiaTest/Environnement.java
+/home/adminuser/workspace/tondeuse_project/src/main/java/xebiaTest/model/Tendeuse.java
+/home/adminuser/workspace/tondeuse_project/src/main/java/xebiaTest/enumeration/Orientation.java
+/home/adminuser/workspace/tondeuse_project/src/main/java/xebiaTest/action/Action.java
+/home/adminuser/workspace/tondeuse_project/src/main/java/xebiaTest/model/TendeusesActions.java
+/home/adminuser/workspace/tondeuse_project/src/main/java/xebiaTest/enumeration/Direction.java
